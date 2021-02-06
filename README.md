@@ -1,4 +1,5 @@
-### Hi there 👋
+## Clancy Oliver
+I am a student at the [University of Tennessee, Knoxville](https://utk.edu/). I am interested in geography and geospatial science.
 
 <!--
 **clancygeodata/clancygeodata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
