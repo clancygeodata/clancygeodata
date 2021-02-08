@@ -1,5 +1,7 @@
 ## Clancy Oliver
-I am a student at the [University of Tennessee, Knoxville](https://utk.edu/). I am interested in geospatial science & geography.
+I am a student at the [University of Tennessee, Knoxville](https://utk.edu/).
+
+My interests include geographic information science (GIS), geospatial science, remote sensing, visualization, and geography.
 
 <!--
 **clancygeodata/clancygeodata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
